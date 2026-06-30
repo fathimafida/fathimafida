@@ -1,13 +1,22 @@
 
-👋 Hi there! I'm **Fathima Fida**, a Flutter developer crafting delightful user experiences.
+Hi there 👋, I'm Fathima Fida
 
-🎓 Student at MEA Engineering College, Kerala.
+I'm a Full Stack Developer passionate about building modern web and mobile applications with clean UI, scalable architecture, and great user experiences.
 
-🚀 Projects powered by Flutter, with sleek UI designs and seamless functionality.
+💻 I primarily work with React, React Native, Laravel, TypeScript, and Tailwind CSS.
 
-💻 Utilizing Django REST framework for robust backend solutions.
+🚀 I enjoy developing:
+- Mobile Applications (React Native)
+- Web Applications (React & laravel)
+- REST APIs with Laravel
+- Responsive UI/UX
+- Admin Dashboards
+- Performance Optimization
+- Real-time Features & Integrations
 
-🔧 Eager learner exploring new technologies and trends in app development.
+🌱 Currently improving my skills in scalable system design, mobile architecture, and cloud deployment.
+
+I enjoy solving real-world problems through technology and continuously learning new tools and frameworks.
 
 
 ## 🌐 Socials:
